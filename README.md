@@ -5,7 +5,7 @@
 This is Regna Theme made by lvlahraam for Visual Studio COde
 This is an Eye Candy - Dark Blue - High Contrast Theme
 
-[Link to the marketplace for download](https://marketplace.visualstudio.com/items?itemName=lvlahraam.regna-theme)
+[Click on here to go to the marketplace for download](https://marketplace.visualstudio.com/items?itemName=lvlahraam.regna-theme)
 
 ### For more information
 I have made this theme because I didn't like other Dark Blue Themes
