@@ -1,6 +1,7 @@
 # README
 ## Information for the "Regna Theme"
 ![alt text](https://imgur.com/pjzZGOG.png)
+
 This is Regna Theme made by lvlahraam for Visual Studio COde
 This is an Eye Candy - Dark Blue - High Contrast Theme
 
