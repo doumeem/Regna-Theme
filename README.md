@@ -8,7 +8,7 @@ This is Regna Theme made by lvlahraam for Visual Studio Code
 
 This is an Eye Candy - Dark Blue - High Contrast Theme
 
-If you like this kinda color please use my THme and tell me your opinion in the Comments, Thank you
+If you like this kinda color please use my Theme and tell me your opinion in the Comments, Thank you
 
 I have made this theme because I didn't like other Dark Blue Themes
 **Enjoy!**
